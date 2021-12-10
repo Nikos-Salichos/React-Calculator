@@ -14,7 +14,7 @@ export const Container = styled.div`
 
 export const Screen = styled.div`
     grid-column: 1 / -1;
-    background-color: gray;
+    background-color: black;
     display: flex;
     justify-content: space-around;
     flex-direction: column;
